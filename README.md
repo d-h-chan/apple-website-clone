@@ -2,7 +2,7 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-This is a clone of Apple's iPhone 15 Pro website using React.js and TailwindCSS. It highlights the effective use of GSAP (Greensock Animations) and Three.js for displaying iPhone 15 Pro models in various colors and shapes. [Check it out here!](https://iphone-clone-dc.vercel.app/)
+This is a clone of Apple's iPhone 15 Pro website using React.js and TailwindCSS. It highlights the effective use of GSAP (Greensock Animations) and Three.js for displaying iPhone 15 Pro models in various colors and shapes. [Check it out here!](https://iphone-dc.vercel.app/)
 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
